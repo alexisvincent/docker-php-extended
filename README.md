@@ -5,6 +5,7 @@ Adds the following extra packages to the official php:7 containers:
 * zip
 * pdo
 * pdo-mysql
+* pd0-pgsql
 
 Tested with:
 	
